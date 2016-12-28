@@ -1,5 +1,5 @@
 #include "luaT.h"
-#include "THC.h"
+#include "THC/THC.h"
 
 #include "utils.c"
 
